@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 180px;
+    background-color: rgb(202, 192, 137);
+
+}
+
+.container {
+    border: 1px solid black;
+    
+
+
+}
+h1{
+    text-align: center;
+    letter-spacing: 2px;
+}
+#name,
+#portfolio,
+#favColor,
+#likeness {
+    padding: 8px;
+    letter-spacing: 3px;
+    font-size: bold;
+
+}
+
+#btn {
+    padding: 15px;
+
+
+
+}
